@@ -1,0 +1,7 @@
+# > StarSmash
+# - USER-AGENT,StarSmash*,Domestic
+DOMAIN-SUFFIX,star-smash.jp,StarSmash
+DOMAIN-SUFFIX,api.star-smash.xflag.com,StarSmash
+DOMAIN-SUFFIX,resources.star-smash.xflag.com,StarSmash
+DOMAIN-SUFFIX,ws.star-smash.xflag.com,StarSmash
+DOMAIN-SUFFIX,inapps.appsflyer.com,StarSmash
