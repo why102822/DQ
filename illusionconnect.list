@@ -9,7 +9,7 @@ DOMAIN-SUFFIX,ic-us-vms.game.illusionconnectgame.com,illusionconnect
 DOMAIN-SUFFIX,clientlog.superprismgames.com,illusionconnect
 DOMAIN-SUFFIX,log2.superprismgames.com,illusionconnect
 DOMAIN-SUFFIX,mapi.superprismgames.com,illusionconnect
-IP-CIDR, 34.98.108.75,illusionconnect
+IP-CIDR, 34.98.108.75/32,illusionconnect
 
 
 
