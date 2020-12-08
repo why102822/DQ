@@ -1,0 +1,453 @@
+shadowsocks=127.0.0.1:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=1 加入用户群: https://t.me/airkoryo
+shadowsocks=127.0.0.1:58865, method=rc4-md5, password=2yDc4G, tag=1 加入用户群: https://t.me/airkoryo
+shadowsocks=127.0.0.1:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=1 备用官网 http://fast.airport-gov-cn.com:39010
+shadowsocks=127.0.0.1:58865, method=rc4-md5, password=2yDc4G, tag=1 备用官网 http://fast.airport-gov-cn.com:39010
+shadowsocks=127.0.0.1:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=1认准官网: cnix-gov-cn.com
+shadowsocks=127.0.0.1:58865, method=rc4-md5, password=2yDc4G, tag=1认准官网: cnix-gov-cn.com
+shadowsocks=pvcc01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC D01
+shadowsocks=pvcc01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=ASYNCHRONOUS TRANSFERMODE 永久虚通路连接PVCC D01
+shadowsocks=2a00:b700:2::9:283:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=IPV6 俄罗斯 D01
+shadowsocks=2a00:b700:2::9:283:58865, method=rc4-md5, password=2yDc4G, tag=IPV6 俄罗斯 D01
+shadowsocks=2403:3a00:202:191e:133:167:107:61:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=IPV6 日本 D01
+shadowsocks=2403:3a00:202:191e:133:167:107:61:58865, method=rc4-md5, password=2yDc4G, tag=IPV6 日本 D01
+shadowsocks=ru01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D01
+shadowsocks=ru01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D01
+shadowsocks=ru02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D02
+shadowsocks=ru02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D02
+shadowsocks=ru03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D03
+shadowsocks=ru03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D03
+shadowsocks=ru04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D04
+shadowsocks=ru04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D04
+shadowsocks=ru05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D05
+shadowsocks=ru05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D05
+shadowsocks=ru06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D06
+shadowsocks=ru06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D06
+shadowsocks=ru07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D07
+shadowsocks=ru07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D07
+shadowsocks=ru08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D08
+shadowsocks=ru08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D08
+shadowsocks=ru09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D09
+shadowsocks=ru09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D09
+shadowsocks=ru10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D10
+shadowsocks=ru10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-俄罗斯 Новосиби́рская о́бласть Советский район Ростелеком IPLC D10
+shadowsocks=nf01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-南非 IPLC Gauteng 約翰內斯堡大都會自治市 Sandton D01
+shadowsocks=nf01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-南非 IPLC Gauteng 約翰內斯堡大都會自治市 Sandton D01
+shadowsocks=nf02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-南非 IPLC Gauteng 約翰內斯堡大都會自治市 Sandton D02
+shadowsocks=nf02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-南非 IPLC Gauteng 約翰內斯堡大都會自治市 Sandton D02
+shadowsocks=nf03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-南非 IPLC Gauteng 約翰內斯堡大都會自治市 Sandton D03
+shadowsocks=nf03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-南非 IPLC Gauteng 約翰內斯堡大都會自治市 Sandton D03
+shadowsocks=nf04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-南非 IPLC Gauteng 約翰內斯堡大都會自治市 Sandton D04
+shadowsocks=nf04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-南非 IPLC Gauteng 約翰內斯堡大都會自治市 Sandton D04
+shadowsocks=nf05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-南非 IPLC Gauteng 約翰內斯堡大都會自治市 Sandton D05
+shadowsocks=nf05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-南非 IPLC Gauteng 約翰內斯堡大都會自治市 Sandton D05
+shadowsocks=in01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-印度 马哈拉施特拉 IPLC D01
+shadowsocks=in01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-印度 马哈拉施特拉 IPLC D01
+shadowsocks=in02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-印度 马哈拉施特拉 IPLC D02
+shadowsocks=in02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-印度 马哈拉施特拉 IPLC D02
+shadowsocks=in03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-印度 马哈拉施特拉 IPLC D03
+shadowsocks=in03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-印度 马哈拉施特拉 IPLC D03
+shadowsocks=in04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-印度 马哈拉施特拉 IPLC D04
+shadowsocks=in04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-印度 马哈拉施特拉 IPLC D04
+shadowsocks=in05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-印度 马哈拉施特拉 IPLC D05
+shadowsocks=in05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-印度 马哈拉施特拉 IPLC D05
+shadowsocks=in06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-印度 马哈拉施特拉 IPLC D06
+shadowsocks=in06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-印度 马哈拉施特拉 IPLC D06
+shadowsocks=in07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-印度 马哈拉施特拉 IPLC D07
+shadowsocks=in07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-印度 马哈拉施特拉 IPLC D07
+shadowsocks=in08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-印度 马哈拉施特拉 IPLC D08
+shadowsocks=in08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-印度 马哈拉施特拉 IPLC D08
+shadowsocks=in09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-印度 马哈拉施特拉 IPLC D09
+shadowsocks=in09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-印度 马哈拉施特拉 IPLC D09
+shadowsocks=in10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-印度 马哈拉施特拉 IPLC D10
+shadowsocks=in10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-印度 马哈拉施特拉 IPLC D10
+shadowsocks=in11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-印度 马哈拉施特拉 IPLC D11
+shadowsocks=in11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-印度 马哈拉施特拉 IPLC D11
+shadowsocks=in12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-印度 马哈拉施特拉 IPLC D12
+shadowsocks=in12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-印度 马哈拉施特拉 IPLC D12
+shadowsocks=tw11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾IEPL Hinet固接  D01
+shadowsocks=tw11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾IEPL Hinet固接  D01
+shadowsocks=tw12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾IEPL Hinet固接  D02
+shadowsocks=tw12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾IEPL Hinet固接  D02
+shadowsocks=tw13.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾IEPL Hinet固接  D03
+shadowsocks=tw13.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾IEPL Hinet固接  D03
+shadowsocks=tw14.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾IEPL Hinet固接  D04
+shadowsocks=tw14.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾IEPL Hinet固接  D04
+shadowsocks=tw15.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾IEPL Hinet固接  D05
+shadowsocks=tw15.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾IEPL Hinet固接  D05
+shadowsocks=tw16.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾IEPL Hinet固接  D06
+shadowsocks=tw16.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾IEPL Hinet固接  D06
+shadowsocks=tw17.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾IEPL Hinet固接 D07
+shadowsocks=tw17.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾IEPL Hinet固接 D07
+shadowsocks=tw18.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾IEPL Hinet固接 D08
+shadowsocks=tw18.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾IEPL Hinet固接 D08
+shadowsocks=tw19.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾IEPL Hinet固接 D09
+shadowsocks=tw19.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾IEPL Hinet固接 D09
+shadowsocks=tw20.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾IEPL Hinet固接 D10
+shadowsocks=tw20.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾IEPL Hinet固接 D10
+shadowsocks=tw21.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾IEPL Hinet固接 D11
+shadowsocks=tw21.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾IEPL Hinet固接 D11
+shadowsocks=tw22.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾IEPL Hinet固接 D12
+shadowsocks=tw22.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾IEPL Hinet固接 D12
+shadowsocks=tw01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾宜兰 IPLC D01
+shadowsocks=tw01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾宜兰 IPLC D01
+shadowsocks=tw02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾宜兰 IPLC D02
+shadowsocks=tw02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾宜兰 IPLC D02
+shadowsocks=tw03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾宜兰 IPLC D03
+shadowsocks=tw03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾宜兰 IPLC D03
+shadowsocks=tw04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾宜兰 IPLC D04
+shadowsocks=tw04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾宜兰 IPLC D04
+shadowsocks=tw05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾宜兰 IPLC D05
+shadowsocks=tw05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾宜兰 IPLC D05
+shadowsocks=tw06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾宜兰 IPLC D06
+shadowsocks=tw06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾宜兰 IPLC D06
+shadowsocks=tw07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾宜兰 IPLC D07
+shadowsocks=tw07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾宜兰 IPLC D07
+shadowsocks=tw08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾宜兰 IPLC D08
+shadowsocks=tw08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾宜兰 IPLC D08
+shadowsocks=tw09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾宜兰 IPLC D09
+shadowsocks=tw09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾宜兰 IPLC D09
+shadowsocks=tw10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-台湾宜兰 IPLC D10
+shadowsocks=tw10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-台湾宜兰 IPLC D10
+shadowsocks=trk01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-土耳其 IPLC专线承载 D01
+shadowsocks=trk01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-土耳其 IPLC专线承载 D01
+shadowsocks=sgp01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-新加坡 IEPL D01 Netflix
+shadowsocks=sgp01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-新加坡 IEPL D01 Netflix
+shadowsocks=sgp02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-新加坡 IEPL D02 Netflix
+shadowsocks=sgp02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-新加坡 IEPL D02 Netflix
+shadowsocks=sgp03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-新加坡 IEPL D03 Netflix
+shadowsocks=sgp03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-新加坡 IEPL D03 Netflix
+shadowsocks=sgp04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-新加坡 IEPL D04 Netflix
+shadowsocks=sgp04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-新加坡 IEPL D04 Netflix
+shadowsocks=sgp05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-新加坡 IEPL D05 Netflix
+shadowsocks=sgp05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-新加坡 IEPL D05 Netflix
+shadowsocks=sgp06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-新加坡 IEPL D06 Netflix
+shadowsocks=sgp06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-新加坡 IEPL D06 Netflix
+shadowsocks=sgp07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-新加坡 IEPL D07 Netflix
+shadowsocks=sgp07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-新加坡 IEPL D07 Netflix
+shadowsocks=sgp08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-新加坡 IEPL D08 Netflix
+shadowsocks=sgp08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-新加坡 IEPL D08 Netflix
+shadowsocks=sgp09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-新加坡 IEPL D09 Netflix
+shadowsocks=sgp09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-新加坡 IEPL D09 Netflix
+shadowsocks=sgp10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-新加坡 IEPL D10 Netflix
+shadowsocks=sgp10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-新加坡 IEPL D10 Netflix
+shadowsocks=sgp11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-新加坡 IEPL D11 Netflix
+shadowsocks=sgp11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-新加坡 IEPL D11 Netflix
+shadowsocks=sgp12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-新加坡 IEPL D12 Netflix
+shadowsocks=sgp12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-新加坡 IEPL D12 Netflix
+shadowsocks=hr01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-日本 多协议标签交换虚拟专用网 D1 1000Mbps
+shadowsocks=hr01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-日本 多协议标签交换虚拟专用网 D1 1000Mbps
+shadowsocks=hr10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-日本 多协议标签交换虚拟专用网 D10 1000Mbps
+shadowsocks=hr10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-日本 多协议标签交换虚拟专用网 D10 1000Mbps
+shadowsocks=hr11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-日本 多协议标签交换虚拟专用网 D11 1000Mbps
+shadowsocks=hr11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-日本 多协议标签交换虚拟专用网 D11 1000Mbps
+shadowsocks=hr12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-日本 多协议标签交换虚拟专用网 D12 1000Mbps
+shadowsocks=hr12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-日本 多协议标签交换虚拟专用网 D12 1000Mbps
+shadowsocks=hr02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-日本 多协议标签交换虚拟专用网 D2 1000Mbps
+shadowsocks=hr02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-日本 多协议标签交换虚拟专用网 D2 1000Mbps
+shadowsocks=hr03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-日本 多协议标签交换虚拟专用网 D3 1000Mbps
+shadowsocks=hr03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-日本 多协议标签交换虚拟专用网 D3 1000Mbps
+shadowsocks=hr04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-日本 多协议标签交换虚拟专用网 D4 1000Mbps
+shadowsocks=hr04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-日本 多协议标签交换虚拟专用网 D4 1000Mbps
+shadowsocks=hr05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-日本 多协议标签交换虚拟专用网 D5 1000Mbps
+shadowsocks=hr05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-日本 多协议标签交换虚拟专用网 D5 1000Mbps
+shadowsocks=hr06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-日本 多协议标签交换虚拟专用网 D6 1000Mbps
+shadowsocks=hr06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-日本 多协议标签交换虚拟专用网 D6 1000Mbps
+shadowsocks=hr07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-日本 多协议标签交换虚拟专用网 D7 1000Mbps
+shadowsocks=hr07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-日本 多协议标签交换虚拟专用网 D7 1000Mbps
+shadowsocks=hr08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-日本 多协议标签交换虚拟专用网 D8 1000Mbps
+shadowsocks=hr08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-日本 多协议标签交换虚拟专用网 D8 1000Mbps
+shadowsocks=hr09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-日本 多协议标签交换虚拟专用网 D9 1000Mbps
+shadowsocks=hr09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-日本 多协议标签交换虚拟专用网 D9 1000Mbps
+shadowsocks=uk01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-英国伦敦电信 IEPL D1
+shadowsocks=uk01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-英国伦敦电信 IEPL D1
+shadowsocks=uk02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-英国伦敦电信 IEPL D2
+shadowsocks=uk02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-英国伦敦电信 IEPL D2
+shadowsocks=uk03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-英国伦敦电信 IEPL D3
+shadowsocks=uk03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-英国伦敦电信 IEPL D3
+shadowsocks=uk04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-英国伦敦电信 IEPL D4
+shadowsocks=uk04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-英国伦敦电信 IEPL D4
+shadowsocks=uk05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-英国伦敦电信 IEPL D5
+shadowsocks=uk05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-英国伦敦电信 IEPL D5
+shadowsocks=uk06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-英国伦敦电信 IEPL D6
+shadowsocks=uk06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-英国伦敦电信 IEPL D6
+shadowsocks=kr01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-韩国 IPLC D01 Netflix
+shadowsocks=kr01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-韩国 IPLC D01 Netflix
+shadowsocks=kr02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-韩国 IPLC D02 Netflix
+shadowsocks=kr02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-韩国 IPLC D02 Netflix
+shadowsocks=kr03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-韩国 IPLC D03 Netflix
+shadowsocks=kr03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-韩国 IPLC D03 Netflix
+shadowsocks=kr04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-韩国 IPLC D04 Netflix
+shadowsocks=kr04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-韩国 IPLC D04 Netflix
+shadowsocks=kr05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-韩国 IPLC D05 Netflix
+shadowsocks=kr05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-韩国 IPLC D05 Netflix
+shadowsocks=kr06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-韩国 IPLC D06 Netflix
+shadowsocks=kr06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-韩国 IPLC D06 Netflix
+shadowsocks=kr07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-韩国 IPLC D07 Netflix
+shadowsocks=kr07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-韩国 IPLC D07 Netflix
+shadowsocks=kr08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-韩国 IPLC D08 Netflix
+shadowsocks=kr08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-韩国 IPLC D08 Netflix
+shadowsocks=kr09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-韩国 IPLC D09 Netflix
+shadowsocks=kr09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-韩国 IPLC D09 Netflix
+shadowsocks=kr10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-韩国 IPLC D10 Netflix
+shadowsocks=kr10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-韩国 IPLC D10 Netflix
+shadowsocks=hk01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IEPL Equinix HK2 D 01 1Gbps Netflix HBO TVB
+shadowsocks=hk01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IEPL Equinix HK2 D 01 1Gbps Netflix HBO TVB
+shadowsocks=hk02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IEPL Equinix HK2 D 02 1Gbps Netflix HBO TVB
+shadowsocks=hk02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IEPL Equinix HK2 D 02 1Gbps Netflix HBO TVB
+shadowsocks=hk03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IEPL Equinix HK2 D 03 1Gbps Netflix HBO TVB
+shadowsocks=hk03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IEPL Equinix HK2 D 03 1Gbps Netflix HBO TVB
+shadowsocks=hk04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IEPL Equinix HK2 D 04 1Gbps Netflix HBO TVB
+shadowsocks=hk04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IEPL Equinix HK2 D 04 1Gbps Netflix HBO TVB
+shadowsocks=hk05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IEPL Equinix HK2 D 05 1Gbps Netflix HBO TVB
+shadowsocks=hk05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IEPL Equinix HK2 D 05 1Gbps Netflix HBO TVB
+shadowsocks=hk06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IEPL Equinix HK2 D 06 1Gbps Netflix HBO TVB
+shadowsocks=hk06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IEPL Equinix HK2 D 06 1Gbps Netflix HBO TVB
+shadowsocks=hk07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IEPL Equinix HK2 D 07 1Gbps Netflix HBO TVB
+shadowsocks=hk07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IEPL Equinix HK2 D 07 1Gbps Netflix HBO TVB
+shadowsocks=hk08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IEPL Equinix HK2 D 08 1Gbps Netflix HBO TVB
+shadowsocks=hk08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IEPL Equinix HK2 D 08 1Gbps Netflix HBO TVB
+shadowsocks=hk09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IEPL Equinix HK2 D 09 1Gbps Netflix HBO TVB
+shadowsocks=hk09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IEPL Equinix HK2 D 09 1Gbps Netflix HBO TVB
+shadowsocks=hk10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IEPL Equinix HK2 D 10 1Gbps Netflix HBO TVB
+shadowsocks=hk10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IEPL Equinix HK2 D 10 1Gbps Netflix HBO TVB
+shadowsocks=sg01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IPLC Equinix HK2 D 01 1Gbps Netflix HBO TVB
+shadowsocks=sg01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IPLC Equinix HK2 D 01 1Gbps Netflix HBO TVB
+shadowsocks=sg02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IPLC Equinix HK2 D 02 1Gbps Netflix HBO TVB
+shadowsocks=sg02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IPLC Equinix HK2 D 02 1Gbps Netflix HBO TVB
+shadowsocks=sg03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IPLC Equinix HK2 D 03 1Gbps Netflix HBO TVB
+shadowsocks=sg03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IPLC Equinix HK2 D 03 1Gbps Netflix HBO TVB
+shadowsocks=sg04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IPLC Equinix HK2 D 04 1Gbps Netflix HBO TVB
+shadowsocks=sg04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IPLC Equinix HK2 D 04 1Gbps Netflix HBO TVB
+shadowsocks=sg05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IPLC Equinix HK2 D 05 1Gbps Netflix HBO TVB
+shadowsocks=sg05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IPLC Equinix HK2 D 05 1Gbps Netflix HBO TVB
+shadowsocks=sg06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IPLC Equinix HK2 D 06 1Gbps Netflix HBO TVB
+shadowsocks=sg06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IPLC Equinix HK2 D 06 1Gbps Netflix HBO TVB
+shadowsocks=sg07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IPLC Equinix HK2 D 07 1Gbps Netflix HBO TVB
+shadowsocks=sg07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IPLC Equinix HK2 D 07 1Gbps Netflix HBO TVB
+shadowsocks=sg08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IPLC Equinix HK2 D 08 1Gbps Netflix HBO TVB
+shadowsocks=sg08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IPLC Equinix HK2 D 08 1Gbps Netflix HBO TVB
+shadowsocks=sg09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IPLC Equinix HK2 D 09 1Gbps Netflix HBO TVB
+shadowsocks=sg09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IPLC Equinix HK2 D 09 1Gbps Netflix HBO TVB
+shadowsocks=sg10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IPLC Equinix HK2 D 10 1Gbps Netflix HBO TVB
+shadowsocks=sg10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IPLC Equinix HK2 D 10 1Gbps Netflix HBO TVB
+shadowsocks=sg11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IPLC Equinix HK2 D 11 1Gbps Netflix HBO TVB
+shadowsocks=sg11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IPLC Equinix HK2 D 11 1Gbps Netflix HBO TVB
+shadowsocks=sg12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=中国-香港 IPLC Equinix HK2 D 12 1Gbps Netflix HBO TVB
+shadowsocks=sg12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=中国-香港 IPLC Equinix HK2 D 12 1Gbps Netflix HBO TVB
+shadowsocks=back01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=回国线路 无法翻墙 D01 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=回国线路 无法翻墙 D01 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=回国线路 无法翻墙 D02 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=回国线路 无法翻墙 D02 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=回国线路 无法翻墙 D03 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=回国线路 无法翻墙 D03 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=回国线路 无法翻墙 D04 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=回国线路 无法翻墙 D04 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=回国线路 无法翻墙 D05 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=回国线路 无法翻墙 D05 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=回国线路 无法翻墙 D06 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=回国线路 无法翻墙 D06 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=回国线路 无法翻墙 D07 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=回国线路 无法翻墙 D07 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=回国线路 无法翻墙 D08 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=回国线路 无法翻墙 D08 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=回国线路 无法翻墙 D09 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=回国线路 无法翻墙 D09 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=回国线路 无法翻墙 D10 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=回国线路 无法翻墙 D10 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=回国线路 无法翻墙 D11 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=回国线路 无法翻墙 D11 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=回国线路 无法翻墙 D12 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=回国线路 无法翻墙 D12 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back13.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=回国线路 无法翻墙 D13 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back13.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=回国线路 无法翻墙 D13 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back14.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=回国线路 无法翻墙 D14 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back14.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=回国线路 无法翻墙 D14 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back15.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=回国线路 无法翻墙 D15 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+shadowsocks=back15.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=回国线路 无法翻墙 D15 爱奇艺/QQ音乐/网易云VIP/腾讯视频
+vmess=v2-jp01.clashcloud.org:681, method=chacha20-poly1305, password=fa55f6f6-7d88-3793-8499-9c8bb2ced531, tag=因V2ray重大漏洞问题，暂时下架全部V2节点。请使用ssr/ss连接方式进行使用。
+shadowsocks=jp01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=日本 まつやまし auひかり ホーム1ギガ D 01
+shadowsocks=jp01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=日本 まつやまし auひかり ホーム1ギガ D 01
+shadowsocks=jp02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=日本 まつやまし auひかり ホーム1ギガ D 02
+shadowsocks=jp02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=日本 まつやまし auひかり ホーム1ギガ D 02
+shadowsocks=jp03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=日本 まつやまし auひかり ホーム1ギガ D 03
+shadowsocks=jp03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=日本 まつやまし auひかり ホーム1ギガ D 03
+shadowsocks=jp04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=日本 まつやまし auひかり ホーム1ギガ D 04
+shadowsocks=jp04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=日本 まつやまし auひかり ホーム1ギガ D 04
+shadowsocks=jp05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=日本 まつやまし auひかり ホーム1ギガ D 05
+shadowsocks=jp05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=日本 まつやまし auひかり ホーム1ギガ D 05
+shadowsocks=jp06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=日本 まつやまし auひかり ホーム1ギガ D 06
+shadowsocks=jp06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=日本 まつやまし auひかり ホーム1ギガ D 06
+shadowsocks=jp07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=日本 まつやまし auひかり ホーム1ギガ D 07
+shadowsocks=jp07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=日本 まつやまし auひかり ホーム1ギガ D 07
+shadowsocks=jp08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=日本 まつやまし auひかり ホーム1ギガ D 08
+shadowsocks=jp08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=日本 まつやまし auひかり ホーム1ギガ D 08
+shadowsocks=jp09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=日本 まつやまし auひかり ホーム1ギガ D 09
+shadowsocks=jp09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=日本 まつやまし auひかり ホーム1ギガ D 09
+shadowsocks=jp10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=日本 まつやまし auひかり ホーム1ギガ D 10
+shadowsocks=jp10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=日本 まつやまし auひかり ホーム1ギガ D 10
+shadowsocks=hg01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D01
+shadowsocks=hg01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D01
+shadowsocks=hg02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D02
+shadowsocks=hg02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D02
+shadowsocks=hg03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D03
+shadowsocks=hg03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D03
+shadowsocks=hg04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D04
+shadowsocks=hg04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D04
+shadowsocks=hg05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D05
+shadowsocks=hg05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=沪港 IEPL专线 港区TVB/HBO/Netflix解锁 D05
+shadowsocks=139.198.113.109:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=游戏加速 AIA 限速 5Mbps AI-Magic-transit BGP 美国地区 D01
+shadowsocks=139.198.113.109:58865, method=rc4-md5, password=2yDc4G, tag=游戏加速 AIA 限速 5Mbps AI-Magic-transit BGP 美国地区 D01
+shadowsocks=139.198.113.88:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=游戏加速 AIA 限速 5Mbps AI-Magic-transit LOL手游加速 BGP 新加坡地区 D01
+shadowsocks=139.198.113.88:58865, method=rc4-md5, password=2yDc4G, tag=游戏加速 AIA 限速 5Mbps AI-Magic-transit LOL手游加速 BGP 新加坡地区 D01
+shadowsocks=sr01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=游戏加速 限速 10Mbps Palo Alto® Networks 中国昆山-日本东京 Prisma Access D01
+shadowsocks=sr01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=游戏加速 限速 10Mbps Palo Alto® Networks 中国昆山-日本东京 Prisma Access D01
+shadowsocks=sr02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=游戏加速 限速 10Mbps Palo Alto® Networks 中国昆山-日本东京 Prisma Access D02
+shadowsocks=sr02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=游戏加速 限速 10Mbps Palo Alto® Networks 中国昆山-日本东京 Prisma Access D02
+shadowsocks=sr03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=游戏加速 限速 10Mbps Palo Alto® Networks 中国昆山-日本东京 Prisma Access D03
+shadowsocks=sr03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=游戏加速 限速 10Mbps Palo Alto® Networks 中国昆山-日本东京 Prisma Access D03
+shadowsocks=sr04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=游戏加速 限速 10Mbps Palo Alto® Networks 中国昆山-日本东京 Prisma Access D04
+shadowsocks=sr04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=游戏加速 限速 10Mbps Palo Alto® Networks 中国昆山-日本东京 Prisma Access D04
+shadowsocks=sr05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=游戏加速 限速 10Mbps Palo Alto® Networks 中国昆山-日本东京 Prisma Access D05
+shadowsocks=sr05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=游戏加速 限速 10Mbps Palo Alto® Networks 中国昆山-日本东京 Prisma Access D05
+shadowsocks=8.129.49.131:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=游戏加速专用-限速10Mbps 阿里CEN BGP D08
+shadowsocks=8.129.49.131:58865, method=rc4-md5, password=2yDc4G, tag=游戏加速专用-限速10Mbps 阿里CEN BGP D08
+shadowsocks=8.129.40.12:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=游戏加速专用-限速5Mbps-阿里CEN BGP D01
+shadowsocks=8.129.40.12:58865, method=rc4-md5, password=2yDc4G, tag=游戏加速专用-限速5Mbps-阿里CEN BGP D01
+shadowsocks=8.129.52.208:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=游戏加速专用-限速5Mbps-阿里CEN BGP D02
+shadowsocks=8.129.52.208:58865, method=rc4-md5, password=2yDc4G, tag=游戏加速专用-限速5Mbps-阿里CEN BGP D02
+shadowsocks=8.129.45.24:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=游戏加速专用-限速5Mbps-阿里CEN BGP D03
+shadowsocks=8.129.45.24:58865, method=rc4-md5, password=2yDc4G, tag=游戏加速专用-限速5Mbps-阿里CEN BGP D03
+shadowsocks=8.129.52.125:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=游戏加速专用-限速5Mbps-阿里CEN BGP D04
+shadowsocks=8.129.52.125:58865, method=rc4-md5, password=2yDc4G, tag=游戏加速专用-限速5Mbps-阿里CEN BGP D04
+shadowsocks=47.112.158.54:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=游戏加速专用-限速5Mbps-阿里CEN BGP D05
+shadowsocks=47.112.158.54:58865, method=rc4-md5, password=2yDc4G, tag=游戏加速专用-限速5Mbps-阿里CEN BGP D05
+shadowsocks=8.129.38.249:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=游戏加速专用-限速5Mbps-阿里CEN BGP D06
+shadowsocks=8.129.38.249:58865, method=rc4-md5, password=2yDc4G, tag=游戏加速专用-限速5Mbps-阿里CEN BGP D06
+shadowsocks=8.129.56.92:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=游戏加速专用-限速5Mbps-阿里CEN BGP D07
+shadowsocks=8.129.56.92:58865, method=rc4-md5, password=2yDc4G, tag=游戏加速专用-限速5Mbps-阿里CEN BGP D07
+shadowsocks=linshi01.clashcloud.club:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=白嫖 /试用 节点 分流A
+shadowsocks=linshi01.clashcloud.club:58865, method=rc4-md5, password=2yDc4G, tag=白嫖 /试用 节点 分流A
+shadowsocks=linshi02.clashcloud.club:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=白嫖 /试用 节点 分流B
+shadowsocks=linshi02.clashcloud.club:58865, method=rc4-md5, password=2yDc4G, tag=白嫖 /试用 节点 分流B
+shadowsocks=linshi03.clashcloud.club:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=白嫖 /试用 节点 分流C
+shadowsocks=linshi03.clashcloud.club:58865, method=rc4-md5, password=2yDc4G, tag=白嫖 /试用 节点 分流C
+shadowsocks=us01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D01 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D01 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D02 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D02 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D03 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D03 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D04 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D04 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D05 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D05 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D06 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D06 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D07 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D07 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D08 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us08.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D08 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D09 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us09.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D09 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D10 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us10.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D10 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D11 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D11 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D12 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D12 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us13.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D13 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us13.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D13 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us14.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D14 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us14.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D14 Netflix Hulu HBO 沪美IEPL传输	
+shadowsocks=us15.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D15 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us15.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D15 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us16.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D16 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us16.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D16 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us17.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D17 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us17.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D17 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us18.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D18 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us18.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D18 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us19.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D19 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us19.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D19 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us20.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D20 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us20.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D20 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us21.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D21 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us21.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D21 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us22.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D22 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us22.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D22 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us23.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D23 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us23.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D23 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us24.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D24 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us24.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D24 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us25.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D25 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us25.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D25 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us26.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D26 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us26.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D26 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us27.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D27 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us27.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D27 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us28.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D28 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us28.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D28 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us29.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D29 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us29.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D29 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us30.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D30 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us30.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D30 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us31.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D31 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us31.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D31 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us32.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D32 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us32.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D32 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us33.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D33 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us33.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D33 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us34.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D34 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us34.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D34 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us35.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D35 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us35.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D35 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us36.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D36 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us36.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D36 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us37.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D37 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us37.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D37 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us38.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D38 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us38.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D38 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us39.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D39 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us39.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D39 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us40.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=美国 萨克拉门托 D40 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=us40.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=美国 萨克拉门托 D40 Netflix Hulu HBO 沪美IEPL传输
+shadowsocks=kr11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=韩国 전라북도 전주시 商宽 D 01
+shadowsocks=kr11.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=韩国 전라북도 전주시 商宽 D 01
+shadowsocks=kr12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=韩国 전라북도 전주시 商宽 D 02
+shadowsocks=kr12.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=韩国 전라북도 전주시 商宽 D 02
+shadowsocks=kr13.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=韩国 전라북도 전주시 商宽 D 03
+shadowsocks=kr13.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=韩国 전라북도 전주시 商宽 D 03
+shadowsocks=kr14.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=韩国 전라북도 전주시 商宽 D 04
+shadowsocks=kr14.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=韩国 전라북도 전주시 商宽 D 04
+shadowsocks=kr15.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=韩国 전라북도 전주시 商宽 D 05
+shadowsocks=kr15.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=韩国 전라북도 전주시 商宽 D 05
+shadowsocks=kr16.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=韩国 전라북도 전주시 商宽 D 06
+shadowsocks=kr16.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=韩国 전라북도 전주시 商宽 D 06
+shadowsocks=kr17.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=韩国 전라북도 전주시 商宽 D 07
+shadowsocks=kr17.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=韩国 전라북도 전주시 商宽 D 07
+shadowsocks=kr18.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=韩国 전라북도 전주시 商宽 D 08
+shadowsocks=kr18.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=韩国 전라북도 전주시 商宽 D 08
+shadowsocks=kr19.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=韩国 전라북도 전주시 商宽 D 09
+shadowsocks=kr19.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=韩国 전라북도 전주시 商宽 D 09
+shadowsocks=kr20.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=韩国 전라북도 전주시 商宽 D 10
+shadowsocks=kr20.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=韩国 전라북도 전주시 商宽 D 10
+shadowsocks=kr21.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=韩国 전라북도 전주시 商宽 D 11
+shadowsocks=kr21.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=韩国 전라북도 전주시 商宽 D 11
+shadowsocks=kr22.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=韩国 전라북도 전주시 商宽 D 12
+shadowsocks=kr22.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=韩国 전라북도 전주시 商宽 D 12
+shadowsocks=kr23.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=韩国 전라북도 전주시 商宽 D 13
+shadowsocks=kr23.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=韩国 전라북도 전주시 商宽 D 13
+shadowsocks=hkt01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=香港 油尖旺御金·国峯 網上行寬頻 D01
+shadowsocks=hkt01.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=香港 油尖旺御金·国峯 網上行寬頻 D01
+shadowsocks=hkt02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=香港 油尖旺御金·国峯 網上行寬頻 D02
+shadowsocks=hkt02.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=香港 油尖旺御金·国峯 網上行寬頻 D02
+shadowsocks=hkt03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=香港 油尖旺御金·国峯 網上行寬頻 D03
+shadowsocks=hkt03.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=香港 油尖旺御金·国峯 網上行寬頻 D03
+shadowsocks=hkt04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=香港 油尖旺御金·国峯 網上行寬頻 D04
+shadowsocks=hkt04.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=香港 油尖旺御金·国峯 網上行寬頻 D04
+shadowsocks=hkt05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=香港 油尖旺御金·国峯 網上行寬頻 D05
+shadowsocks=hkt05.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=香港 油尖旺御金·国峯 網上行寬頻 D05
+shadowsocks=hkt06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=香港 油尖旺御金·国峯 網上行寬頻 D06
+shadowsocks=hkt06.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=香港 油尖旺御金·国峯 網上行寬頻 D06
+shadowsocks=hkt07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=香港 油尖旺御金·国峯 網上行寬頻 D07
+shadowsocks=hkt07.clashcloud.tech:58865, method=rc4-md5, password=2yDc4G, tag=香港 油尖旺御金·国峯 網上行寬頻 D07
