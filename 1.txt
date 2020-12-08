@@ -1,5 +1,3 @@
-shadowsocks=127.0.0.1:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=1 加入用户群: https://t.me/airkoryo
-shadowsocks=127.0.0.1:58865, method=rc4-md5, password=2yDc4G, tag=1 加入用户群: https://t.me/airkoryo
 shadowsocks=127.0.0.1:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=1 备用官网 http://fast.airport-gov-cn.com:39010
 shadowsocks=127.0.0.1:58865, method=rc4-md5, password=2yDc4G, tag=1 备用官网 http://fast.airport-gov-cn.com:39010
 shadowsocks=127.0.0.1:58865, method=rc4-md5, password=2yDc4G, ssr-protocol=origin, ssr-protocol-param=, obfs=http_simple, obfs-host="download.windowsupdate.com, tag=1认准官网: cnix-gov-cn.com
