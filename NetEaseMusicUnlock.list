@@ -10,18 +10,8 @@ host-suffix,interface.music.163.com, Netease Music
 host-suffix,interface3.music.163.com, Netease Music
 host-suffix,apm.music.163.com, Netease Music
 host-suffix,apm3.music.163.com, Netease Music
-host-suffix,p1.music.126.net, Netease Music
-host-suffix,p2.music.126.net, Netease Music
-host-suffix,p3.music.126.net, Netease Music
-host-suffix,p4.music.126.net, Netease Music
-host-suffix,p5.music.126.net, Netease Music
-host-suffix,p6.music.126.net, Netease Music
-host-suffix,p7.music.126.net, Netease Music
-host-suffix,p8.music.126.net, Netease Music
-host-suffix,p9.music.126.net, Netease Music
-host-suffix,p10.music.126.net, Netease Music
-host-suffix,p11.music.126.net, Netease Music
-host-suffix,p12.music.126.net, Netease Music
+host-suffix,music.126.net, Netease Music
+
 
 IP-CIDR,59.111.181.38/32, Netease Music
 IP-CIDR,59.111.181.60/32, Netease Music
