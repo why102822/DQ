@@ -10,7 +10,7 @@ host-suffix,interface.music.163.com, Netease Music
 host-suffix,interface3.music.163.com, Netease Music
 host-suffix,apm.music.163.com, Netease Music
 host-suffix,apm3.music.163.com, Netease Music
-host-suffix,music.126.net, Netease Music
+host-suffix,.music.126.net, Netease Music
 
 
 IP-CIDR,59.111.181.38/32, Netease Music
