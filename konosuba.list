@@ -1,5 +1,6 @@
 # > Konosuba
 # - USER-AGENT,Konosuba*,Domestic
+DOMAIN-SUFFIX,app-measurement.com,Konosuba
 DOMAIN-SUFFIX,cdp.cloud.unity3d.com,Konosuba
 DOMAIN-SUFFIX,api.konosubafd.jp,Konosuba
 DOMAIN-SUFFIX,static.konosubafd.jp,Konosuba
