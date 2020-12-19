@@ -1,7 +1,7 @@
 
 # > illusionconnect
 # - USER-AGENT,illusionconnect*,Domestic
-
+DOMAIN-SUFFIX,app-measurement.com,illusionconnect
 DOMAIN-SUFFIX,ic-sg-vms.game.illusionconnectgame.com,illusionconnect
 DOMAIN-SUFFIX,ic-us-dpsdk.game.illusionconnectgame.com,illusionconnect
 DOMAIN-SUFFIX,ic-us-log.game.illusionconnectgame.com,illusionconnect
