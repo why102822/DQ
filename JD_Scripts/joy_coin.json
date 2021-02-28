@@ -3,6 +3,5 @@
  "description": "https://gitee.com/lxk0301/jd_scripts/tree/master",
  "task": [
     "10 7 * * * https://jdsharedresourcescdn.azureedge.net/jdresource/jd_crazy_joy_coin.js"
-    
   ]
 }
